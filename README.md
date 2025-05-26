@@ -18,7 +18,12 @@ This is a dynamic and fully responsive restaurant website built using **React.js
 
 ## 📸 Screenshots
 
-*Add screenshots here if you want — UI on desktop and mobile*
+> *Add your screenshots below:*
+
+- Homepage (Desktop view)
+- Mobile view
+- Menu section
+- Reservation form
 
 ## 🚀 Getting Started
 
